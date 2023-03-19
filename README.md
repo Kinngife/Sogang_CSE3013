@@ -1,10 +1,10 @@
 # Sogang_CSE3013
 서강대학교_컴퓨터공학설계및실험I_2022년도 1학기
 
-**week1** : shell 프로그래밍 학습
+**week1** : shell 프로그래밍 학습(1)
 > 전화번호부 프로그램 작성
 
-**week2** : shell 프로그래밍 학습
+**week2** : shell 프로그래밍 학습(2)
 > Makefile 작성, 디버깅, Remove_Blanks_At_The_End 함수 작성
 
 **week3** : C++ 프로그래밍 학습(1)
